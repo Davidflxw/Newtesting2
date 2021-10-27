@@ -1,0 +1,1 @@
+print("All these are new for me. I am learning a new language, following some rules to succeed.")
